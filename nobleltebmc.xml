@@ -10,5 +10,5 @@
   <project name="manikar/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-17.1" />
   <project name="manikar/android_kernel_samsung_exynos7420" path="kernel/samsung/exynos7420" remote="github" revision="lineage-17.1" />
   <project name="manikar/proprietary_vendor_samsung_noblelte-common" path="vendor/samsung/noblelte-common" remote="github" revision="lineage-17.1" />
-  <project name="manikar/proprietary_vendor_samsung_noblelte" path="vendor/samsung/noblelte" remote="github" revision="lineage-17.1" />
+  <project name="manikar/proprietary_vendor_samsung_nobleltebmc" path="vendor/samsung/nobleltebmc" remote="github" revision="lineage-17.1" />
 </manifest>
