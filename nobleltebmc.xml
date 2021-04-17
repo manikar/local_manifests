@@ -3,7 +3,7 @@
 <manifest>
   <project name="manikar/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
   <project name="manikar/android_device_samsung_noblelte-common" path="device/samsung/noblelte-common" remote="github" revision="lineage-17.1" />
-  <project name="manikar/android_device_samsung_nobleltetmo" path="device/samsung/nobleltetmo" remote="github" revision="lineage-17.1" />
+  <project name="manikar/android_device_samsung_nobleltebmc" path="device/samsung/nobleltebmc" remote="github" revision="lineage-17.1" />
   <project name="manikar/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-17.1" />
   <project name="manikar/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-17.1" />
   <project name="manikar/android_hardware_samsung_slsi-cm_exynos7420" path="hardware/samsung_slsi-cm/exynos7420" remote="github" revision="lineage-17.1" />
